@@ -1,0 +1,22 @@
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+Execution steps:
+----------------
+http://localhost:8090/population/controller/getAllCountryRegistrations
+http://localhost:8090/population/controller/getCountryDetailsByRegistrationNo/1001
+http://localhost:8090/population/controller/registerCountry
+{
+        "countryName": "JAPAN",
+        "population": 126476461,
+        "president": "Shinzo Abe",
+        "noOfDivisions": 47
+}
+http://localhost:8090/population/controller/updateCountryRegistration
+{
+        "registrationNo": 1001,
+        "countryName": "INDIA",
+        "population": 1380004780,
+        "president": "Ram Nath Kovind",
+        "noOfDivisions": 24
+}
+http://localhost:8090//population/controller/removeCountryRegistration/1002

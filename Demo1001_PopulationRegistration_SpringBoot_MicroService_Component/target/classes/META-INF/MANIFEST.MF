@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: dadaram.jadhav
+Build-Jdk: 15.0.1
+Implementation-Title: Demo1001_PopulationRegistration_SpringBoot_MicroSe
+ rvice_Component
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lkm.accenture
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Demo1001_Popul
+ ationRegistration_SpringBoot_MicroService_Component/
+Created-By: Maven Integration for Eclipse
+
